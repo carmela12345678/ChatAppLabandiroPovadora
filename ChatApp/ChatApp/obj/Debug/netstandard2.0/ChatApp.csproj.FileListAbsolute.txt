@@ -51,3 +51,21 @@ E:\Mobile Dev\ChatApp-LabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0
 E:\Mobile Dev\ChatApp-LabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
 E:\Mobile Dev\ChatApp-LabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 E:\Mobile Dev\ChatApp-LabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\create.xaml.g.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\ResetPassword.xaml.g.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\TabPage.xaml.g.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
+C:\Users\maryj\OneDrive\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
