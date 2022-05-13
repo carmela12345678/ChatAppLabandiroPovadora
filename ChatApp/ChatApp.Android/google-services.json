@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746778697176",
+    "project_id": "chatapp-labandiropovadora",
+    "storage_bucket": "chatapp-labandiropovadora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746778697176:android:b09c9aacc92ec0d529e6ad",
+        "android_client_info": {
+          "package_name": "com.companyname.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746778697176-rh1shk9q4discv523bumsk7fe4vf4qq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmufKSQQq--4UUoV_uhrjuaGndV3Z2sgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746778697176-rh1shk9q4discv523bumsk7fe4vf4qq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
