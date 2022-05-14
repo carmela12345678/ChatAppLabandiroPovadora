@@ -3420,24 +3420,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CuatrosMarias\\.nuget\\packages\\": {},
+    "C:\\Users\\maryj\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
       "projectName": "ChatApp.Android",
-      "projectPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
-      "packagesPath": "C:\\Users\\CuatrosMarias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+      "packagesPath": "C:\\Users\\maryj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\CuatrosMarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maryj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3451,8 +3451,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
-              "projectPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj"
+            "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
+              "projectPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj"
             }
           }
         }

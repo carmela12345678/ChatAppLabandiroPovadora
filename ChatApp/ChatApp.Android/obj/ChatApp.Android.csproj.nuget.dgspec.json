@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj": {}
+    "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj": {
+    "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
         "projectName": "ChatApp.Android",
-        "projectPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
-        "packagesPath": "C:\\Users\\CuatrosMarias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\obj\\",
+        "projectPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\ChatApp.Android.csproj",
+        "packagesPath": "C:\\Users\\maryj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\CuatrosMarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maryj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
-                "projectPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj"
+              "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
+                "projectPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj"
               }
             }
           }
@@ -74,20 +74,20 @@
         }
       }
     },
-    "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
+    "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj",
-        "packagesPath": "C:\\Users\\CuatrosMarias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CuatrosMarias\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\obj\\",
+        "projectPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "packagesPath": "C:\\Users\\maryj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\CuatrosMarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maryj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -147,7 +147,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
