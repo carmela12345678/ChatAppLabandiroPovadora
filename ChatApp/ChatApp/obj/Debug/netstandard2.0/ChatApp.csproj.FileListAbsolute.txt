@@ -87,3 +87,21 @@ C:\Users\CuatrosMarias\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp
 C:\Users\CuatrosMarias\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
 C:\Users\CuatrosMarias\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
 C:\Users\CuatrosMarias\Documents\GitHub\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.deps.json
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.dll
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ref\ChatApp.dll
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\bin\Debug\netstandard2.0\ChatApp.pdb
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.AssemblyReference.cache
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\create.xaml.g.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\ResetPassword.xaml.g.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\TabPage.xaml.g.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfoInputs.cache
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.AssemblyInfo.cs
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.dll
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ref\ChatApp.dll
+E:\Mobile Dev\ChatAppLabandiroPovadora\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.pdb

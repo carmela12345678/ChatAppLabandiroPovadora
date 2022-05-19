@@ -828,9 +828,9 @@ map_managed_to_java:
 	.xword	.L.managed_type_name.409
 	.xword	.L.java_type_name.406
 	.xword	.L.managed_type_name.410
-	.xword	.L.java_type_name.409
-	.xword	.L.managed_type_name.411
 	.xword	.L.java_type_name.408
+	.xword	.L.managed_type_name.411
+	.xword	.L.java_type_name.409
 	.xword	.L.managed_type_name.412
 	.xword	.L.java_type_name.407
 	.xword	.L.managed_type_name.413
@@ -858,9 +858,9 @@ map_managed_to_java:
 	.xword	.L.managed_type_name.424
 	.xword	.L.java_type_name.421
 	.xword	.L.managed_type_name.425
-	.xword	.L.java_type_name.423
-	.xword	.L.managed_type_name.426
 	.xword	.L.java_type_name.422
+	.xword	.L.managed_type_name.426
+	.xword	.L.java_type_name.423
 	.xword	.L.managed_type_name.427
 	.xword	.L.java_type_name.424
 	.xword	.L.managed_type_name.428
@@ -886,17 +886,17 @@ map_managed_to_java:
 	.xword	.L.managed_type_name.438
 	.xword	.L.java_type_name.435
 	.xword	.L.managed_type_name.439
-	.xword	.L.java_type_name.437
-	.xword	.L.managed_type_name.440
 	.xword	.L.java_type_name.438
+	.xword	.L.managed_type_name.440
+	.xword	.L.java_type_name.439
 	.xword	.L.managed_type_name.441
 	.xword	.L.java_type_name.442
 	.xword	.L.managed_type_name.442
 	.xword	.L.java_type_name.443
 	.xword	.L.managed_type_name.443
-	.xword	.L.java_type_name.439
-	.xword	.L.managed_type_name.444
 	.xword	.L.java_type_name.436
+	.xword	.L.managed_type_name.444
+	.xword	.L.java_type_name.437
 	.xword	.L.managed_type_name.445
 	.xword	.L.java_type_name.440
 	.xword	.L.managed_type_name.446
