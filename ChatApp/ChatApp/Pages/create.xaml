@@ -20,6 +20,8 @@
             </Grid.ColumnDefinitions>
         
             <BoxView Grid.Row="0" VerticalOptions="StartAndExpand" BackgroundColor="#60AFFE" HeightRequest="350" WidthRequest="350"/>
+            <Image x:Name="logo" Source="logo" Grid.Row="0" WidthRequest="{Binding Converter={StaticResource scale}, ConverterParameter='width=200'}" Aspect="AspectFill"/>
+            
 
             <StackLayout Grid.Row="1" BackgroundColor="White" Margin="5,0,5,5" VerticalOptions="StartAndExpand">
                 <custom:CustomEntry x:Name="username" Keyboard="Default" CornerRadius="10" IsCurvedCornersEnabled="True" BorderColor="Black" BorderWidth="3" HorizontalTextAlignment="Start" FontSize="16" Placeholder="Username" PlaceholderColor="LightGray" TextColor="Black" WidthRequest="10" VerticalOptions="Start" HorizontalOptions="FillAndExpand"/>

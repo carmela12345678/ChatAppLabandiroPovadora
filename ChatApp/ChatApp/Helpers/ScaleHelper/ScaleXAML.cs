@@ -4,7 +4,7 @@ using System.Text;
 using System.Globalization;
 using Xamarin.Forms;
 
-namespace ChatApp.Helpers.ScaleHelper
+namespace ChatApp
 {
     public class ScaleXAML : IValueConverter
     {
