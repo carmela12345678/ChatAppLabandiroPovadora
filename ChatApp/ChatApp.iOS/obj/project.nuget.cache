@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "iUvJChibvwtL3D/nFbEf/Sx+5qqyOEN3qwyJWuVCw9aOvSVUFW/ts5yuXi8W8GeSb28OC1+qIeW1IIkhkhEwQA==",
+  "dgSpecHash": "eNM2h+wdag6PIPcZAmZQxYpVg9BLTw+OshsEDyfmo2LoXiCCFaHxddNPL+FW2fn9VoacC8JNDvRAe86cgZNSmA==",
   "success": true,
-  "projectFilePath": "E:\\Mobile Dev\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\maryj\\OneDrive\\Documents\\GitHub\\ChatAppLabandiroPovadora\\ChatApp\\ChatApp.iOS\\ChatApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\plugin.cloudfirestore\\3.1.0\\plugin.cloudfirestore.3.1.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.firebase.ios.cloudfirestore\\1.12.0\\xamarin.firebase.ios.cloudfirestore.1.12.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+    "C:\\Users\\maryj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\plugin.cloudfirestore\\3.1.0\\plugin.cloudfirestore.3.1.0.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\xamarin.firebase.ios.cloudfirestore\\1.12.0\\xamarin.firebase.ios.cloudfirestore.1.12.0.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
+    "C:\\Users\\maryj\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
   ],
   "logs": [
     {

@@ -37,7 +37,7 @@
 
 	/* 1: ChatApp.dll */
 	/* uncompressed_file_size */
-	.long	56320
+	.long	59392
 	/* loaded */
 	.byte	0
 	/* data */
